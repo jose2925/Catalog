@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "aUclDAmNfT5yI7RBD9lB+t+P3CVrlbfNzlhXdKCc0YY=",
+  "Source": "Catalog",
+  "BasePath": "_content/Catalog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Catalog\\wwwroot",
+      "Source": "Catalog",
+      "ContentRoot": "C:\\Users\\JOSE EFREN GAYTAN JR\\code\\Catalog\\wwwroot\\",
+      "BasePath": "_content/Catalog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
